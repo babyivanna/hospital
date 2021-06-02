@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.f9e766f0.chunk.css",
+    "main.js": "/hospital/static/js/main.bffb09f2.chunk.js",
+    "main.js.map": "/hospital/static/js/main.bffb09f2.chunk.js.map",
+    "runtime-main.js": "/hospital/static/js/runtime-main.8347d729.js",
+    "runtime-main.js.map": "/hospital/static/js/runtime-main.8347d729.js.map",
+    "static/css/2.c02757eb.chunk.css": "/hospital/static/css/2.c02757eb.chunk.css",
+    "static/js/2.4166d3de.chunk.js": "/hospital/static/js/2.4166d3de.chunk.js",
+    "static/js/2.4166d3de.chunk.js.map": "/hospital/static/js/2.4166d3de.chunk.js.map",
+    "static/js/3.608302ce.chunk.js": "/hospital/static/js/3.608302ce.chunk.js",
+    "static/js/3.608302ce.chunk.js.map": "/hospital/static/js/3.608302ce.chunk.js.map",
+    "index.html": "/hospital/index.html",
+    "static/css/2.c02757eb.chunk.css.map": "/hospital/static/css/2.c02757eb.chunk.css.map",
+    "static/css/main.f9e766f0.chunk.css.map": "/hospital/static/css/main.f9e766f0.chunk.css.map",
+    "static/js/2.4166d3de.chunk.js.LICENSE.txt": "/hospital/static/js/2.4166d3de.chunk.js.LICENSE.txt",
+    "static/media/header.module.css": "/hospital/static/media/logo.8f99d759.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8347d729.js",
+    "static/css/2.c02757eb.chunk.css",
+    "static/js/2.4166d3de.chunk.js",
+    "static/css/main.f9e766f0.chunk.css",
+    "static/js/main.bffb09f2.chunk.js"
+  ]
+}
