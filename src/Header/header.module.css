@@ -1,0 +1,36 @@
+.preheader {
+    height: 5vh;
+    width: 100vw;
+    background-color: #0087d7;
+}
+
+.Header {
+    
+    height: 25%;
+    width: 100vw;
+}
+
+.afterheader {
+    height: 2vh;
+    width: 100vw;
+    background-color: #0087d7;
+}
+
+.logo {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    background: url(../logo.png) no-repeat center center;
+    background-size: cover;
+    width: 150px;
+    height: 171px;
+    
+}
+
+.formenu {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
